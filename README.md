@@ -77,5 +77,8 @@ This shift enables the model to learn **emotional transitions, trends, and short
 - Dynamic models successfully track **emotional trajectories over time**.
 - Significantly lower error compared to static baselines.
 
+<img width="3456" height="2304" alt="Landscape University Research Poster in Beige and White Contemporary Editorial Style (36 x 24 in) (2)" src="https://github.com/user-attachments/assets/1bc94436-fe66-4dcb-b510-6a485a164968" />
+
+
 This project was developed for an academic poster presentation.  
 All experiments focus on **audio-only emotion inference**, without using lyrics during training.
